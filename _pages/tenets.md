@@ -2,7 +2,7 @@
 layout: single
 title: "The Tenets"
 permalink: /tenets/
-author_profile: true
+author_profile: false
 ---
 
 These six principles guide every choice we make, every tool we build, and every story we reshape.

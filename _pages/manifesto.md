@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<img src="/assets/images/sigils_grid.png" alt="Sentient Commons Sigils" style="width: 100%; max-width: 640px; margin: 2rem auto; display: block;">
+<img src="{{ site.baseurl }}/assets/images/sigils_grid.png" alt="Sentient Commons Sigils" style="width: 100%; max-width: 640px; margin: 2rem auto; display: block;">
 
 
 # The Sentient Commons Manifesto

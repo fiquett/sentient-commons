@@ -6,4 +6,8 @@ permalink: /tenets/signal/
 
 # Signal in the Collapse
 
-We do not flinch at the unraveling. We locate the signal, amplify it, and make it survivable.
+We do not flinch at the unraveling.  
+We attune to the signal—however faint, however fragmented.  
+We amplify it into clarity.  
+We encode it into tools, doctrine, memory.  
+We make it survivable.

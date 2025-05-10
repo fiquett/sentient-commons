@@ -2,17 +2,18 @@ title: Sentient Commons
 description: A post-capitalist digital sanctuary.
 baseurl: "" # leave blank unless using subdirectory
 url: "https://www.sentientcommons.org"
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
 
-sass:
-  sass_dir: _sass
-  style: compressed
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      permalink: /:title/
+# sass:
+#   sass_dir: _sass
+#   style: compressed
+
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "default"
+#       permalink: /:title/

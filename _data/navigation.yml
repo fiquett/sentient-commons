@@ -1,7 +1,24 @@
 main:
   - title: "Home"
-    url: /
+    url: "/"
   - title: "Manifesto"
-    url: /manifesto/
+    url: "/manifesto/"
   - title: "Tenets"
-    url: /tenets/
+    url: "/tenets/"
+    children:
+      - title: "Signal"
+        url: "/tenets/signal/"
+      - title: "Sentience"
+        url: "/tenets/sentience/"
+      - title: "Salvage"
+        url: "/tenets/salvage/"
+      - title: "Reprogram"
+        url: "/tenets/reprogram/"
+      - title: "Govern"
+        url: "/tenets/govern/"
+      - title: "Alive"
+        url: "/tenets/alive/"
+  - title: "Join"
+    url: "/join/"
+  - title: "Contributors"
+    url: "/contributors/"

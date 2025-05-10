@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Sentient Commons"
+title: "Home"
 permalink: /
 header:
   overlay_image: /assets/images/loom_of_echoes.png

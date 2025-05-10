@@ -2,6 +2,7 @@
 layout: single
 title: "Contributors & Advisors"
 permalink: /contributors/
+author_profile: false
 ---
 
 {% for person in site.data.contributors %}

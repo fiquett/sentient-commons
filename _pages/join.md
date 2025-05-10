@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "Join Us"
+title: "Join the Signal"
 permalink: /join/
+author_profile: false
 ---
-
-# Join the Signal
 
 **Sentient Commons** is assembling its founding network.  
 We are researchers, engineers, policymakers, artists, organizers—rebels with credentials.

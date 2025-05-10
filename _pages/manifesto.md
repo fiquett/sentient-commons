@@ -60,8 +60,6 @@ We reject any system that asks us to trade survival for convenience, or dignity 
 We are not here to optimize the machine.  
 We are here to reprogram the story.
 
-<img src="{{ site.baseurl }}/assets/images/sigils_grid.png" alt="Sentient Commons Sigils" style="width: 100%; max-width: 640px; margin: 2rem auto; display: block;">
-
 ---
 
 [Back to Home](/)

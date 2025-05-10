@@ -26,5 +26,3 @@ These six principles guide every choice we make, every tool we build, and every 
 
 ### 🌍 [Sentience is a Commons]({{ site.baseurl }}/tenets/sentience)  
 *Awareness demands stewardship—of people, machines, ecosystems, and the unseen.*
-
-<img src="{{ site.baseurl }}/assets/images/tenets_card_grid.png" alt="Sentient Commons Tenets" style="width: 100%; max-width: 960px; margin: 2rem auto; display: block;">

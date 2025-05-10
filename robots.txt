@@ -1,1 +1,1 @@
-Sitemap: https://www.sentientcommons.org/sitemap.xml
+Sitemap: https://www.sentientcommons.org/sentient-commons/sitemap.xml

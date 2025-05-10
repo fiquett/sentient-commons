@@ -5,6 +5,7 @@ permalink: /manifesto/
 author_profile: true
 ---
 
+
 We are standing on the cracked threshold of a world being rewritten—by code, by corporations, by crises of conscience. Algorithms make decisions we can’t audit. Infrastructure we depend on is stitched together by invisible labor and brittle assumptions. AI threatens to calcify bias while promising progress. Governance lags. Capitalism cannibalizes.
 
 But buried in the noise, there is signal.  

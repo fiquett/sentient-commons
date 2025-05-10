@@ -3,7 +3,7 @@ layout: splash
 title: "Sentient Commons"
 permalink: /
 header:
-  overlay_image: /assets/images/tenets_card_grid.png
+  overlay_image: /assets/images/loom_of_echoes.png
   overlay_filter: 0.2
   caption: "Reprogram the story. Build the future."
 excerpt: "Technology, governance, and ecology redesigned for life—not profit."

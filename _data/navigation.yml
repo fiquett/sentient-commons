@@ -22,3 +22,5 @@ main:
     url: "/join/"
   - title: "Contributors"
     url: "/contributors/"
+  - title: "About"
+    url: "/about/"

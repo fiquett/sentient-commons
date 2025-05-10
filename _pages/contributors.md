@@ -7,7 +7,7 @@ author_profile: true
 
 {% for person in site.data.contributors %}
 <div class="person-card" style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <img src="{{ person.avatar }}" alt="{{ person.name }}" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
+  <img src="{{ person.avatar }}" alt="{{ person.name }}" style="width: 142px; height: 142px; border-radius: 50%; margin-right: 1rem;">
   <div>
     <strong>{{ person.name }}</strong><br>
     <em>{{ person.role }}</em><br>

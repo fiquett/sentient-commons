@@ -10,7 +10,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-logo: "/assets/images/sentient_commons_logo.png"
+logo: "/assets/images/eye-of-the-commons.png"
+logo_width: 48px 
+
 
 author:
   name: "Brandon G. Fiquett"

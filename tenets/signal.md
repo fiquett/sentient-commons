@@ -4,8 +4,6 @@ title: Signal in the Collapse
 permalink: /tenets/signal/
 ---
 
-# Signal in the Collapse
-
 We do not flinch at the unraveling.  
 We attune to the signal—however faint, however fragmented.  
 We amplify it into clarity.  

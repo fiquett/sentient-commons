@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "About"
+title: "About the Founder"
 permalink: /about/
 author_profile: true
 ---
-
-# About the Founder
 
 I was raised inside systems built to keep people obedient.  
 I worked inside systems built to keep them dependent.  

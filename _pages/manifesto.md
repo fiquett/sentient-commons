@@ -5,10 +5,6 @@ permalink: /manifesto/
 author_profile: true
 ---
 
-
-<img src="{{ site.baseurl }}/assets/images/sigils_grid.png" alt="Sentient Commons Sigils" style="width: 100%; max-width: 640px; margin: 2rem auto; display: block;">
-
-
 # The Sentient Commons Manifesto
 
 We are standing on the cracked threshold of a world being rewritten—by code, by corporations, by crises of conscience. Algorithms make decisions we can’t audit. Infrastructure we depend on is stitched together by invisible labor and brittle assumptions. AI threatens to calcify bias while promising progress. Governance lags. Capitalism cannibalizes.
@@ -64,6 +60,8 @@ We reject any system that asks us to trade survival for convenience, or dignity 
 
 We are not here to optimize the machine.  
 We are here to reprogram the story.
+
+<img src="{{ site.baseurl }}/assets/images/sigils_grid.png" alt="Sentient Commons Sigils" style="width: 100%; max-width: 640px; margin: 2rem auto; display: block;">
 
 ---
 

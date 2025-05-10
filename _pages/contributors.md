@@ -4,7 +4,7 @@ title: "Contributors & Advisors"
 permalink: /contributors/
 author_profile: false
 ---
-
+---
 {% for person in site.data.contributors %}
 <div class="person-card" style="display: flex; align-items: center; margin-bottom: 2rem;">
   <img src="{{ person.avatar }}" alt="{{ person.name }}" style="width: 142px; height: 142px; border-radius: 50%; margin-right: 1rem;">

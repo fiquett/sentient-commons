@@ -3,6 +3,9 @@ layout: default
 title: Manifesto
 ---
 
+<img src="/assets/images/sigils_grid.png" alt="Sentient Commons Sigils" style="width: 100%; max-width: 640px; margin: 2rem auto; display: block;">
+
+
 # The Sentient Commons Manifesto
 
 We are standing on the cracked threshold of a world being rewritten—by code, by corporations, by crises of conscience. Algorithms make decisions we can’t audit. Infrastructure we depend on is stitched together by invisible labor and brittle assumptions. AI threatens to calcify bias while promising progress. Governance lags. Capitalism cannibalizes.

@@ -1,11 +1,9 @@
 ---
 layout: single
-title: "Manifesto"
+title: "The Sentient Commons Manifesto"
 permalink: /manifesto/
 author_profile: true
 ---
-
-# The Sentient Commons Manifesto
 
 We are standing on the cracked threshold of a world being rewritten—by code, by corporations, by crises of conscience. Algorithms make decisions we can’t audit. Infrastructure we depend on is stitched together by invisible labor and brittle assumptions. AI threatens to calcify bias while promising progress. Governance lags. Capitalism cannibalizes.
 

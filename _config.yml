@@ -1,5 +1,5 @@
 title: Sentient Commons
 description: A post-capitalist digital sanctuary.
-baseurl: "" # no subpath
-url: "https://yourusername.gitlab.io/sentient-commons"
+baseurl: ""
+url: "https://www.sentientcommons.org"
 theme: minima

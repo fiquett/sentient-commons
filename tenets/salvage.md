@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: Salvage Without Submission
+permalink: /tenets/salvage/
 ---
 
 # Salvage Without Submission

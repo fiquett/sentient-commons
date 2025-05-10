@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Reprogram the Story
+layout: single
+title: "Reprogram the Story"
+permalink: /tenets/reprogram/
 ---
+
 
 # Reprogram the Story
 

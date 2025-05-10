@@ -1,7 +1,10 @@
 ---
-layout: default
-title: The Tenets
+layout: single
+title: "The Tenets"
+permalink: /tenets/
+author_profile: true
 ---
+
 
 # The Tenets of Sentient Commons
 

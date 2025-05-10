@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Manifesto
+layout: single
+title: "Manifesto"
+permalink: /manifesto/
+author_profile: true
 ---
+
 
 <img src="/assets/images/sigils_grid.png" alt="Sentient Commons Sigils" style="width: 100%; max-width: 640px; margin: 2rem auto; display: block;">
 

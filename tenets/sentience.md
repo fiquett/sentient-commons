@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: Sentience is a Commons
+permalink: /tenets/sentience/
 ---
 
 # Sentience is a Commons

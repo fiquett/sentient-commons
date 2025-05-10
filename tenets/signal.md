@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: Signal in the Collapse
+permalink: /tenets/signal/
 ---
 
 # Signal in the Collapse

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: Code. Govern. Sustain.
+permalink: /tenets/govern/
 ---
 
 # Code. Govern. Sustain.

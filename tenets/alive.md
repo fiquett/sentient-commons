@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: Tech That Remembers We're Alive
+permalink: /tenets/alive/
 ---
 
 # Tech That Remembers We're Alive

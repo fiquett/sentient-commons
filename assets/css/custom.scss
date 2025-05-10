@@ -1,17 +1,33 @@
+/* Logo appearance */
 .site-logo img {
-  max-height: 142px !important; /* try 80px or higher if you want it larger */
+  max-height: 142px !important;
   width: auto;
   filter: grayscale(100%) brightness(85%) contrast(90%);
-  
 }
+
+/* Site title styling */
 .site-title {
-  font-size: 1.5rem; /* try 2.25rem or 2.5rem for more impact */
+  font-size: 2.25rem;       /* bumped for stronger presence */
   font-weight: 600;
   line-height: 1.2;
-  margin-left: 0.5rem; /* tweak as needed */
+  margin-left: 0.5rem;
   text-transform: uppercase;
+  color: #000000 !important;
 }
+
+/* Site title link */
 .site-title a {
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  color: #000000 !important;
+}
+
+/* Navigation menu links */
+.masthead__menu-item a {
+  color: #000000 !important;
+}
+
+/* Navigation hover effect */
+.masthead__menu-item a:hover {
+  color: #333333 !important;
 }

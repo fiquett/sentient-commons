@@ -11,7 +11,7 @@ plugins:
   - jekyll-include-cache
 
 logo: "/assets/images/eye-of-the-commons.png"
-logo_width: 48px 
+logo_width: 100px 
 
 
 author:

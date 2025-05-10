@@ -8,6 +8,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 logo: "/assets/images/sentient_commons_logo.png"
 

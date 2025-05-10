@@ -2,3 +2,13 @@
   max-height: 142px !important; /* try 80px or higher if you want it larger */
   width: auto;
 }
+.site-title {
+  font-size: 2rem; /* try 2.25rem or 2.5rem for more impact */
+  font-weight: 600;
+  line-height: 1.2;
+  margin-left: 0.5rem; /* tweak as needed */
+}
+.site-title a {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}

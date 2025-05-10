@@ -1,6 +1,8 @@
 .site-logo img {
   max-height: 142px !important; /* try 80px or higher if you want it larger */
   width: auto;
+  filter: grayscale(100%) brightness(85%) contrast(90%);
+  
 }
 .site-title {
   font-size: 1.5rem; /* try 2.25rem or 2.5rem for more impact */

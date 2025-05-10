@@ -1,17 +1,19 @@
 ---
-layout: default
-title: Join Us
+layout: single
+title: "Join Us"
 permalink: /join/
 ---
 
 # Join the Signal
 
-Sentient Commons is assembling its founding network.  
-We are researchers, engineers, policy makers, artists, organizers—rebels with credentials.
+**Sentient Commons** is assembling its founding network.  
+We are researchers, engineers, policymakers, artists, organizers—rebels with credentials.
 
 If you feel the signal, you're already one of us.
 
-## Contact Us
+---
 
-Email: [brandon@fiquett.com]  
-Coming soon: mailing list & private forum access.
+## 📡 Contact
+
+📧 **Email:** [brandon@fiquett.com](mailto:brandon@fiquett.com)  
+🕸️ Coming soon: encrypted mailing list & private forum access.

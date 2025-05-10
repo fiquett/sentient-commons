@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Join Us
+permalink: /join/
 ---
 
 # Join the Signal

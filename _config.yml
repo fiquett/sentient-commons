@@ -10,11 +10,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-logo: "/sentient-commons/assets/images/sentient_commons_logo.png"
+logo: "/assets/images/sentient_commons_logo.png"
 
 author:
   name: "Brandon G. Fiquett"
-  avatar: "/sentient-commons/assets/images/brandon-avatar.png"
+  avatar: "/assets/images/brandon-avatar.png"
   bio: "Reprogrammer of systems. Designer of post-capitalist infrastructure."
   location: "Seattle, WA"
   email: brandon@fiquett.com

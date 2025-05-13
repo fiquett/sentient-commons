@@ -67,4 +67,9 @@ We are here to reprogram the story.
 
 ---
 
+> “This isn’t about better tech. It’s about better ancestors.”  
+> — from [“Designing for the Dead & Yet-to-Be-Born”](https://fiquett.com/dead-and-yet-to-be-born)
+
+---
+
 [Back to Home](/)

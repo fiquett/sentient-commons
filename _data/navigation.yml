@@ -18,6 +18,8 @@ main:
         url: "/tenets/govern/"
       - title: "Alive"
         url: "/tenets/alive/"
+  - title: "Dispatches"
+    url: "/posts/"
   - title: "Join"
     url: "/join/"
   - title: "Contributors"

@@ -1,1 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.sentientcommons.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.sentientcommons.org/" rel="alternate" type="text/html" /><updated>2025-05-15T20:18:14+00:00</updated><id>https://www.sentientcommons.org/feed.xml</id><title type="html">Sentient Commons</title><subtitle>A post-capitalist digital sanctuary.</subtitle><author><name>Brandon G. Fiquett</name><email>brandon@fiquett.com</email></author><entry><title type="html">Cfpb Data Privacy Rollback</title><link href="https://www.sentientcommons.org/2025/05/15/cfpb-data-privacy-rollback.html" rel="alternate" type="text/html" title="Cfpb Data Privacy Rollback" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://www.sentientcommons.org/2025/05/15/cfpb-data-privacy-rollback</id><content type="html" xml:base="https://www.sentientcommons.org/2025/05/15/cfpb-data-privacy-rollback.html"><![CDATA[]]></content><author><name>Brandon G. Fiquett</name><email>brandon@fiquett.com</email></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.sentientcommons.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.sentientcommons.org/" rel="alternate" type="text/html" /><updated>2025-05-15T20:23:51+00:00</updated><id>https://www.sentientcommons.org/feed.xml</id><title type="html">Sentient Commons</title><subtitle>A post-capitalist digital sanctuary.</subtitle><author><name>Brandon G. Fiquett</name><email>brandon@fiquett.com</email></author><entry><title type="html">Consent Is Not Optional: The Weaponization of Personal Data in Post-Democratic America</title><link href="https://www.sentientcommons.org/2025/05/15/cfpb-data-privacy-rollback.html" rel="alternate" type="text/html" title="Consent Is Not Optional: The Weaponization of Personal Data in Post-Democratic America" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://www.sentientcommons.org/2025/05/15/cfpb-data-privacy-rollback</id><content type="html" xml:base="https://www.sentientcommons.org/2025/05/15/cfpb-data-privacy-rollback.html"><![CDATA[<h1 id="consent-is-not-optional-the-weaponization-of-personal-data-in-post-democratic-america">Consent Is Not Optional: The Weaponization of Personal Data in Post-Democratic America</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td>**By Brandon Fiquett</td>
+      <td>Sentient Commons</td>
+      <td>May 15, 2025**</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="abstract">Abstract</h2>
+
+<p>In May 2025, the U.S. Consumer Financial Protection Bureau (CFPB) officially withdrew a proposed rule that would have enforced consent requirements for the sale of sensitive personal data by third-party brokers. This decision, spearheaded by Acting Director Russell Vought, reflects a growing deregulatory agenda that endangers consumer autonomy, national security, and the ethical foundations of digital society. This article outlines the policy reversal, the actors involved, and the implications for civil liberties in the context of increasing state-corporate convergence.</p>
+
+<hr />
+
+<h2 id="1-introduction">1. Introduction</h2>
+
+<p>The commodification of personal data—location history, biometric identifiers, religious affiliation, financial records—is not a future threat. It is an ongoing crisis. At the heart of this surveillance economy lies the opaque and largely unregulated <strong>data brokerage industry</strong>, a sector estimated to exceed <strong>$250 billion globally by 2025</strong> (<a href="https://privacyrights.org/">Privacy Rights Clearinghouse, 2023</a>).</p>
+
+<p>In December 2024, under Director Rohit Chopra, the CFPB proposed a regulation titled <em>“Protecting Americans from Harmful Data Broker Practices.”</em> The rule sought to classify data brokers under the Fair Credit Reporting Act (FCRA), requiring them to obtain informed consent before collecting or reselling personal data. However, as of May 14, 2025, this rule has been rescinded (<a href="https://www.federalregister.gov/public-inspection/2025-08644">Federal Register, 2025</a>).</p>
+
+<hr />
+
+<h2 id="2-key-stakeholders-and-motivations">2. Key Stakeholders and Motivations</h2>
+
+<h3 id="21-regulatory-sabotage-by-political-appointees">2.1 Regulatory Sabotage by Political Appointees</h3>
+
+<p>Russell Vought, formerly the Director of the Office of Management and Budget, cited an updated “interpretation” of the FCRA in withdrawing the rule (<a href="https://www.wired.com/story/cfpb-quietly-kills-rule-to-shield-americans-from-data-brokers/">WIRED, 2025</a>). Critics, including Sean Vitka of Demand Progress and veterans’ group Common Defense, condemned the move as a deliberate capitulation to data brokers, with <strong>no clear public safety rationale</strong>.</p>
+
+<h3 id="22-corporate-lobbying-and-the-fintech-complex">2.2 Corporate Lobbying and the Fintech Complex</h3>
+
+<p>The <strong>Financial Technology Association (FTA)</strong>—a trade group representing fintech firms—issued a formal letter opposing the regulation, arguing it would “exceed statutory mandate” and “hinder fraud prevention” (<a href="https://www.ftassociation.org/wp-content/uploads/2025/05/FTA-Letter-on-OMB-Deregulation-RFI.pdf">FTA Letter, May 2025</a>). This language mirrors industry patterns of framing data extraction as a security necessity—a rhetorical inversion used to <strong>justify surveillance capitalism</strong> (<a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674237698">Zuboff, 2019</a>).</p>
+
+<hr />
+
+<h2 id="3-the-real-world-harm-of-unregulated-data-trade">3. The Real-World Harm of Unregulated Data Trade</h2>
+
+<h3 id="31-national-security-risks">3.1 National Security Risks</h3>
+
+<p>A 2023 research study funded by the U.S. Military Academy at West Point concluded that current data broker practices pose a “clear and present threat to U.S. national security” by facilitating the identification and targeting of military personnel through de-anonymized datasets (<a href="https://techpolicy.sanford.duke.edu/wp-content/uploads/sites/4/2023/11/Sherman-et-al-2023-Data-Brokers-and-the-Sale-of-Data-on-US-Military-Personnel.pdf">Sherman et al., 2023</a>).</p>
+
+<p>Data leaked by firms such as <strong>Gravy Analytics</strong> and <strong>Mobilewalla</strong> have exposed granular movements of political officials, defense contractors, and active service members (<a href="https://www.wired.com/story/google-dv360-banned-audience-segments-national-security/">WIRED, 2023</a>).</p>
+
+<h3 id="32-personal-safety-and-domestic-abuse">3.2 Personal Safety and Domestic Abuse</h3>
+
+<p>According to the <strong>Safety Net Project</strong> of the National Network to End Domestic Violence, people-search engines that purchase brokered data can allow abusers to track victims even after relocation or identity changes (<a href="https://www.techsafety.org/data-brokers">TechSafety.org, 2024</a>).</p>
+
+<hr />
+
+<h2 id="4-the-cfpbs-gutting-dismantling-accountability">4. The CFPB’s Gutting: Dismantling Accountability</h2>
+
+<p>As reported by WIRED, more than <strong>1,400 CFPB employees were laid off in April 2025</strong>, leaving only a skeletal agency incapable of meaningful enforcement (<a href="https://www.wired.com/story/cfpb-has-been-gutted/">WIRED, 2025</a>). This administrative evisceration coincided with calls from Elon Musk—now head of the <strong>Department of Government Efficiency (DOGE)</strong>—to eliminate the CFPB entirely (<a href="https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/">WIRED, 2025</a>).</p>
+
+<p>The result is <strong>not just deregulation—it is decapitation</strong>.</p>
+
+<hr />
+
+<h2 id="5-ethical-and-legal-dimensions">5. Ethical and Legal Dimensions</h2>
+
+<h3 id="51-consent-as-a-cornerstone-of-democratic-systems">5.1 Consent as a Cornerstone of Democratic Systems</h3>
+
+<p>Consent, in data ethics, is not merely symbolic. It is foundational. Its removal creates a legal architecture in which <strong>involuntary surveillance becomes normalized</strong>—a system that philosopher Shoshana Zuboff describes as “a coup from above” (<a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674237698">Zuboff, 2019</a>).</p>
+
+<h3 id="52-international-precedents-and-comparative-models">5.2 International Precedents and Comparative Models</h3>
+
+<p>The <strong>EU General Data Protection Regulation (GDPR)</strong> enshrines consent, data minimization, and the right to be forgotten—principles <strong>absent</strong> from the American regulatory landscape (<a href="https://gdpr.eu/">GDPR.eu, 2024</a>). The U.S. is increasingly anomalous in permitting corporate actors to commodify behavioral data without opt-in mechanisms.</p>
+
+<hr />
+
+<h2 id="6-recommendations">6. Recommendations</h2>
+
+<ol>
+  <li>
+    <p><strong>Reinstate and Expand the CFPB’s Mandate</strong><br />
+Include specific language affirming FCRA applicability to data brokers.</p>
+  </li>
+  <li>
+    <p><strong>Enact Federal Opt-In Privacy Legislation</strong><br />
+Modeled after GDPR, with criminal penalties for violations.</p>
+  </li>
+  <li>
+    <p><strong>Publicly Funded Watchdog Infrastructure</strong><br />
+Create independent data rights enforcement bodies with authority to audit brokers.</p>
+  </li>
+  <li>
+    <p><strong>Citizen Literacy and Encryption Campaigns</strong><br />
+Empower the public with tools to resist passive data harvesting.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The revocation of the CFPB’s proposed rule is not just a policy shift. It is a <strong>moral failure</strong>—one that reveals the fragile illusion of control in the digital age. To reclaim that control, we must redefine data rights as <strong>human rights</strong>, and dismantle the structures that mistake consent for inconvenience.</p>
+
+<p>If the state will not defend us from predation, then we must defend each other.</p>
+
+<hr />
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>Cameron, D., &amp; Mehrotra, D. (2025). <a href="https://www.wired.com/story/cfpb-quietly-kills-rule-to-shield-americans-from-data-brokers/"><em>CFPB Quietly Kills Rule to Shield Americans From Data Brokers</em></a>. WIRED.</li>
+  <li>Zuboff, S. (2019). <em>The Age of Surveillance Capitalism</em>. Harvard University Press.</li>
+  <li>Sherman, J., et al. (2023). <a href="https://techpolicy.sanford.duke.edu/wp-content/uploads/sites/4/2023/11/Sherman-et-al-2023-Data-Brokers-and-the-Sale-of-Data-on-US-Military-Personnel.pdf"><em>Data Brokers and the Sale of Data on U.S. Military Personnel</em></a>. Duke University Tech Policy Lab.</li>
+  <li><a href="https://www.ftassociation.org/wp-content/uploads/2025/05/FTA-Letter-on-OMB-Deregulation-RFI.pdf"><em>FTA Letter on OMB Deregulation RFI</em></a> (May 2025). Financial Technology Association.</li>
+  <li><a href="https://www.techsafety.org/data-brokers"><em>Data Brokers &amp; Survivor Safety</em></a>. TechSafety.org.</li>
+  <li><a href="https://gdpr.eu/"><em>What is GDPR?</em></a>. GDPR.eu.</li>
+</ul>
+
+<hr />]]></content><author><name>Brandon Fiquett</name></author><category term="data rights" /><category term="surveillance" /><category term="CFPB" /><category term="data brokers" /><category term="deregulation" /><category term="national security" /><category term="consent" /><category term="press release" /><summary type="html"><![CDATA[The CFPB's quiet dismantling of data broker regulation isn't just policy failure—it's open season on your privacy. Here's what it means, who's behind it, and what must be done.]]></summary></entry></feed>

@@ -109,7 +109,7 @@ Not anymore.
 ## References
 
 [^1]: [WIRED: CFPB Quietly Kills Rule to Shield Americans From Data Brokers](https://www.wired.com/story/cfpb-quietly-kills-rule-to-shield-americans-from-data-brokers/)  
-[^2]: [Federal Register: Withdrawal Notice](https://www.federalregister.gov/public-inspection/2025-08644)  
+[^2]: [Federal Register: Withdrawal Notice](https://www.federalregister.gov/documents/2025/05/15/2025-08644/protecting-americans-from-harmful-data-broker-practices-regulation-v-withdrawal-of-proposed-rule)  
 [^3]: [WIRED: Gravy Analytics Leak](https://www.wired.com/story/gravy-location-data-app-leak-rtb/)  
 [^4]: [Texas Attorney General’s Case Against Arity](https://www.texasattorneygeneral.gov/sites/default/files/images/press/Allstate%20and%20Arity%20Petition%20Filed.pdf)  
 [^5]: [TechSafety.org on Data Brokers and Abuse](https://www.techsafety.org/data-brokers)  

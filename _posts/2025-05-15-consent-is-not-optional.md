@@ -7,7 +7,7 @@ summary: The CFPB just quietly killed a rule that would’ve forced data brokers
 layout: single
 ---
 
-![They Are Selling Your Data](../assets/images/they_are_selling_your_data.png){: .img-right width="400" }
+![They Are Selling Your Data](/assets/images/they_are_selling_your_data.png){: .img-right width="400" }
 
 **Imagine this:**
 

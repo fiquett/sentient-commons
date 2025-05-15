@@ -7,8 +7,6 @@ summary: The CFPB just quietly killed a rule that would’ve forced data brokers
 layout: single
 ---
 
-# They’re Selling You. And They Don’t Even Need Your Permission.
-
 **Imagine this:**
 
 A stranger knows your income, your credit score, your home address, your location at 2:36 PM yesterday, who you voted for, what religion you left, and whether you're pregnant.

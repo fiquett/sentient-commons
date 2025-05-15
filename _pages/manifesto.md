@@ -62,4 +62,14 @@ We are here to reprogram the story.
 
 ---
 
+> “In an age where digital presence often overshadows human essence, we must reclaim our agency. The Mindful Digital Citizen Manifesto calls for intentional engagement with technology—prioritizing humanity over algorithms.”  
+> — [The Mindful Digital Citizen Manifesto](https://fiquett.com/2023/04/the-mindful-digital-citizen-manifesto/)
+
+---
+
+> “This isn’t about better tech. It’s about better ancestors.”  
+> — from [“Designing for the Dead & Yet-to-Be-Born”](https://fiquett.com/dead-and-yet-to-be-born)
+
+---
+
 [Back to Home](/)

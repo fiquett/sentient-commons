@@ -5,7 +5,6 @@ url: "https://www.sentientcommons.org"
 paginate: 5
 paginate_path: "/posts/page:num/"
 
-
 baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
 plugins:
@@ -21,8 +20,6 @@ logo: "/assets/images/eye-of-the-commons.png"
 sass:
   style: compressed
 
-
-
 author:
   name: "Brandon G. Fiquett"
   avatar: "/assets/images/brandon-avatar.png"
@@ -36,6 +33,13 @@ defaults:
       path: ""
     values:
       layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
       author_profile: true
 
 include:

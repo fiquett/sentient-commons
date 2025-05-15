@@ -11,5 +11,3 @@ Welcome to **Dispatches** — field notes from the edge.
 
 These are essays, briefings, and declarations from the Sentient Commons collective.  
 Signal-flares in the dark. Weapons against apathy. Invitations to rebuild.
-
-Below you’ll find the latest:

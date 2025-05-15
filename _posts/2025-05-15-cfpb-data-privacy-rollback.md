@@ -7,8 +7,6 @@ layout: single
 excerpt: "The CFPB's quiet dismantling of data broker regulation isn't just policy failure—it's open season on your privacy. Here's what it means, who's behind it, and what must be done."
 ---
 
-# Consent Is Not Optional: The Weaponization of Personal Data in Post-Democratic America
-
 **By Brandon Fiquett | Sentient Commons | May 15, 2025**
 
 ---
